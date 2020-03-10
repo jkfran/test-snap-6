@@ -7,4 +7,3 @@ parts:
   my-part:
     # See 'snapcraft plugins'
     plugin: nil
-
